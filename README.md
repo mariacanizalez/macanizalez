@@ -1,5 +1,11 @@
-Hello World! twemoji-1f60e twemoji-1f60e:bowtie:
 
-Trabajo con Salesforce, desarrollo con Apex y de componentes web.
+# Hello World! :tw-1f60e: 
 
+------------
+##### Trabajo con **Salesforce**, desarrollo con **Apex** y **componentes** **web**
 
+Estoy aprendiendo **Python** y **JavaScript** para ampliar mis conocimientos de progración.
+
+ He trabajado con C++ y Java.
+ 
+------------
