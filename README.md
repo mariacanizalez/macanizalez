@@ -1,5 +1,5 @@
 
-# Hello World! :tw-1f60e: 
+# Hello World! 😎 
 
 ------------
 ##### Trabajo con **Salesforce**, desarrollo con **Apex** y **componentes** **web**
